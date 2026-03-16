@@ -6,6 +6,10 @@ A serverless REST API built on AWS using Lambda, API Gateway, DynamoDB, and AWS 
 
 This project demonstrates how to build and deploy a serverless backend without managing traditional servers. The API supports basic operations for creating and retrieving items through HTTP endpoints.
 
+## Live API Endpoint
+
+https://pn4vsaatyb.execute-api.us-east-1.amazonaws.com/Prod/
+
 ## Architecture
 
 Client Request  
@@ -91,3 +95,13 @@ sam deploy --guided
 ## Portfolio Project
 
 This repository is part of my cloud engineering portfolio and demonstrates hands-on experience with AWS serverless architecture.
+
+## Skills Demonstrated
+
+• AWS Lambda (serverless compute)
+• Amazon API Gateway (REST API routing)
+• Amazon DynamoDB (NoSQL database)
+• AWS SAM (Serverless Application Model)
+• AWS CloudFormation (Infrastructure as Code)
+• Node.js backend development
+• Git & GitHub for version control
