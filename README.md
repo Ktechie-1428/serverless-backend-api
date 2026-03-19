@@ -12,13 +12,15 @@ https://pn4vsaatyb.execute-api.us-east-1.amazonaws.com/Prod/
 
 ## Architecture
 
-Client Request  
-↓  
-Amazon API Gateway  
-↓  
-AWS Lambda  
-↓  
+```text
+Client Request
+   ↓
+Amazon API Gateway
+   ↓
+AWS Lambda
+   ↓
 Amazon DynamoDB
+```
 
 ## Technologies Used
 
